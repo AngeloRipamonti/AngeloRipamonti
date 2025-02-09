@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Angelo Ripamonti</h1>
 <h3 align="center">A passionate fullstack developer from Italy</h3>
 
-- 🔭 I’m currently working on [Point of Interest](https://github.com/cristiannobili/POI_2024_2025)
+- 🔭 I’m currently working on [Slider Immagini](https://github.com/AlexandrosKotis/5C_RipamontiKotis_SliderImmagini)
 
 - 🌱 I’m currently learning **PHP**
 
