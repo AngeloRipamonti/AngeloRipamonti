@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PHP**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AngeloRipamonti](https://github.com/AngeloRipamonti)
+- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/AngeloRipamonti?tab=repositories)
 
 - 💬 Ask me about **typescript, java and sql**
 
