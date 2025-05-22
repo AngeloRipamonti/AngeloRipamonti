@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Angelo Ripamonti</h1>
 <h3 align="center">A passionate fullstack developer from Italy</h3>
 
-- 🔭 I’m currently working on [Progetto Wiki](https://github.com/AlexandrosKotis/5C_DiDonnaKotisRipamontiTacconi_ProggettoWiki) & [Portale Appunti](https://github.com/AngeloRipamonti/5C_RipamontiAvvedutoKotisCinquetti_PortaleAppunti)
+- 🔭 I’m currently working on [Portale Appunti](https://github.com/AngeloRipamonti/5C_RipamontiAvvedutoKotisCinquetti_PortaleAppunti)
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/AngeloRipamonti?tab=repositories)
 
