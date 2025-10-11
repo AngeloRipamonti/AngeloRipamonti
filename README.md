@@ -22,7 +22,9 @@ Here is [My Portfolio](https://angeloripamonti.github.io/Portfolio/)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)<br>
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Go](https://img.shields.io/badge/Go-2CA3E0?logo=go&logoColor=white)
+<br>
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
